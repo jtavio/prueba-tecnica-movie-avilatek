@@ -35,7 +35,10 @@ la misma estructura mostrada en Figma.
 ● Las películas se cargan usando el API de The Movie DB
 ● Puedes realizar animaciones entre pantallas y la aparición de textos.
 
-Se implemento animaciones entre pantallas y tambien en textos e imagenes.
+Se implemento animaciones de terceros y personales entre pantallas y tambien en textos e imagenes. 
+Se implemento el manegador de estados Flutter bloc y bloc.
+Se uso modelos para mapear las respuestas de la Api.
+Use un obserdor de bloc para ver los cambios.
 
 NOTA: Se uso el apikey proporcionado en el correo.
 
